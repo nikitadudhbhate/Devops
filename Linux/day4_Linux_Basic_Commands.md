@@ -42,7 +42,7 @@
 * to Change Directory to Home Directory from any location in Linux System(`~` this argument is used in `cd` command to change the directory to the home directory from any location in Linux System.)
    `syntax:- cd ~`
 * to move inside a directory from a directory :- cd dir_1/dir_2/dir_3 (dir_1/dir_2/dir_3 are as of example)
-#### File and Directory Operations:
+### File and Directory Operations:
 * mkdir: Create a new directory.
    * to create a directory with verbose output using `mkdir` command :- mkdir -v [directory_name] ('v' means verbose) 
    * to create multiple directories in Linux using `mkdir` command :- mkdir [directorie_name_1] [directorie_name_1] [directorie_name_1]
