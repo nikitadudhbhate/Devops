@@ -47,6 +47,7 @@
    * to create a directory with verbose output using `mkdir` command :- mkdir -v [directory_name] ('v' means verbose) 
    * to create multiple directories in Linux using `mkdir` command :- mkdir [directorie_name_1] [directorie_name_1] [directorie_name_1]
 * rmdir : To deete the directory.
+### Copying, Moving, and Removing Files:
 * cp: Copy files or directories.
 * mv: Move or rename files or directories.
 * rm: Remove files or directories (be careful with this command).
