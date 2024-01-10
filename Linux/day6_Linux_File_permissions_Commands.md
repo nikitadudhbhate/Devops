@@ -42,4 +42,8 @@ The first field represents file permissions for the owner, group, and others.
 su: Switch user or become superuser.
 Syntax: su [username]
 sudo: Execute a command as another user, often the superuser.
-Syntax: sudo [command]
+Syntax: sudo [command]![Linux file]
+
+![Linux file](https://github.com/nikitadudhbhate/Devops/assets/69752276/3699a964-125f-4287-ac89-b2515a021a61)
+
+
